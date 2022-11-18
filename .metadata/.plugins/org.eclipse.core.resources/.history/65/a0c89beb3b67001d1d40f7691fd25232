@@ -1,0 +1,5 @@
+package com.dperez.dsmeta.repositories;
+
+public class SaleRepository {
+
+}
