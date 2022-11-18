@@ -1,0 +1,5 @@
+package com.dperez.dsmeta.entities;
+
+public class Sale {
+
+}
