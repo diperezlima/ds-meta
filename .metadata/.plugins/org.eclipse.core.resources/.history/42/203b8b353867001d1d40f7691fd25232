@@ -1,0 +1,5 @@
+package com.dperez.dsmeta.config;
+
+public class SecurityConfig {
+
+}
